@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://lofi.ch3n.cc">
-    <img src="https://cloud-804nlv5ep-hack-club-bot.vercel.app/1lofi_radio__400_x_100_px_.png" alt="Logo" style='border-radius: 15px'>
+    <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/249b95b933179e88_image.png" alt="Logo" style='border-radius: 15px'>
   </a>
 
 <h3 align="center">Lofi Radio</h3>
