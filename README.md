@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://lofi.ch3n.cc">
-    <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/249b95b933179e88_image.png" alt="Logo" style='border-radius: 15px'>
+    <img src="https://cdn.hackclub.com/019f41f1-19ea-781a-b1ce-7e244fc3a2d9/image.png" alt="Logo" style='border-radius: 15px'>
   </a>
 
 <h3 align="center">Lofi Radio</h3>
@@ -15,9 +15,9 @@
     <br />
     <a href="https://lofi.ch3n.cc">View Demo</a>
     ·
-    <a href="https://github.com/RedNotSus/lofi-radio/issues">Report Bug</a>
+    <a href="https://github.com/jiayangc1/lofi-radio/issues">Report Bug</a>
     ·
-    <a href="https://github.com/RedNotSus/lofi-radio/issues">Request Feature</a>
+    <a href="https://github.com/jiayangc1/lofi-radio/issues">Request Feature</a>
   </p>
 </div>
 
@@ -72,7 +72,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/RedNotSus/lofi-radio.git
+   git clone https://github.com/jiayangc1/lofi-radio.git
    ```
 2. Use caddy or any other server to serve the files
 
@@ -95,7 +95,7 @@ To get a local copy up and running follow these simple example steps.
 - [ ] Better UI
 - [ ] Admin panel
 
-See the [open issues](https://github.com/rednotsus/lofi-radio/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/jiayangc1/lofi-radio/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,8 +118,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/rednotsus/lofi-radio/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=rednotsus/lofi-radio" alt="contrib.rocks image" />
+<a href="https://github.com/jiayangc1/lofi-radio/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jiayangc1/lofi-radio" alt="contrib.rocks image" />
 </a>
 
 <!-- LICENSE -->
